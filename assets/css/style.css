@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("../images/dust_scratches.png");
+    font-size: 100%;
+    margin: 0;
+}
+
+header {
+    background-color: #ffffff;
+}
